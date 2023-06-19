@@ -3,7 +3,7 @@
 # Practice
 <<<<<<< HEAD
 <<<<<<< HEAD
-riki i looooooooooove you very veryyyyy
+riki i looooooooooove you very veryyyyyy
 =======
 blaaaablaaa
 >>>>>>> 4d701c0846ed40e75828fc4113eb463d3171d291
