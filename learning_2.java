@@ -17,6 +17,7 @@ static void riki(int num) {
 int num=1234;
 riki(num);
 //changes
+//more changes
 	}
 
 }
