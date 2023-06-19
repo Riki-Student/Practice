@@ -1,7 +1,7 @@
 
 # Practice
 <<<<<<< HEAD
-Efrat i also love you very very!!!!
+blaaaablaaa
 =======
 <<<<<<< HEAD
 <<<<<<< .mine
