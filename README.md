@@ -1,11 +1,19 @@
 
 # Practice
 <<<<<<< HEAD
+<<<<<<< HEAD
 riki i looooooooooove you very veryyyyy
+=======
+blaaaablaaa
+>>>>>>> 4d701c0846ed40e75828fc4113eb463d3171d291
 =======
 <<<<<<< .mine
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am changing your file to be better
+=======
+bla bla bla
+>>>>>>> 4d701c0846ed40e75828fc4113eb463d3171d291
 =======
 I am your file
 =======
