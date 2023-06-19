@@ -10,7 +10,7 @@ blaaaablaaa
 <<<<<<< .mine
 <<<<<<< HEAD
 <<<<<<< HEAD
-I am changing your file to be better
+I am changing your file to be better.
 =======
 bla bla bla
 >>>>>>> 4d701c0846ed40e75828fc4113eb463d3171d291
