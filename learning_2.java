@@ -16,6 +16,7 @@ static void riki(int num) {
 		// TODO Auto-generated method stub
 int num=1234;
 riki(num);
+//changes
 	}
 
 }
