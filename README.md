@@ -1,14 +1,9 @@
 
 # Practice
 <<<<<<< HEAD
-riki i loooooooove you very veryyyyy
-=======
 <<<<<<< HEAD
-<<<<<<< .mine
-this is my line!!!
-=======
-I am your file
->>>>>>> .theirs
+riki i loooooooove you very veryyyyy
+
 =======
 I am oo your file
 >>>>>>> b285f782486c209046b413ee9810f824b893e5e5
