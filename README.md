@@ -5,7 +5,7 @@ Efrat i also love you very very!!!!
 =======
 <<<<<<< HEAD
 <<<<<<< .mine
-this is my line!!!
+bla bla bla
 =======
 I am your file
 >>>>>>> .theirs
