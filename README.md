@@ -1,7 +1,7 @@
 
 # Practice
 <<<<<<< HEAD
-riki i looooooooooove you very veryyyyy
+Efrat i also love you very very!!!!
 =======
 <<<<<<< HEAD
 <<<<<<< .mine
